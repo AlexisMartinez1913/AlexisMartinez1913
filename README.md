@@ -1,5 +1,9 @@
 ## Hola soy Alexis Martinez :octocat:
-programmer in training
+Soy una persona apasionada por la tecnología, los videojuegos, la programación y el aprendizaje continuo.
+Respecto a contactos con la programación, inicié mis primeros pasos aproximadamente hace 3 años, y en el 2022 pude terminar la carrera de Tecnólogo en desarrollo de software en la Institución Universitaria Pascual Bravo, así como también el programa Misión TIC 2022.
+Actualmente hago parte de una alianza entre Globant y Cesde llamada formación dual, donde continuo aprendiendo sobre este maravilloso mundo.
+
+
 ### Tecnologías
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
