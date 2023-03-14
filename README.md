@@ -1,6 +1,7 @@
 ## Hola soy Alexis Martinez :octocat:
 Soy una persona apasionada por la tecnología, los videojuegos, la programación y el aprendizaje continuo.
 Respecto a contactos con la programación, inicié mis primeros pasos aproximadamente hace 3 años, y en el 2022 pude terminar la carrera de Tecnólogo en desarrollo de software en la Institución Universitaria Pascual Bravo, así como también el programa Misión TIC 2022.
+
 Actualmente hago parte de una alianza entre Globant y Cesde llamada formación dual, donde continuo aprendiendo sobre este maravilloso mundo.
 
 
