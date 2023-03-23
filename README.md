@@ -5,9 +5,9 @@
 
 Soy una persona apasionada por la tecnología, los videojuegos, la programación y el aprendizaje continuo.
 
-Respecto a contactos con la programación, inicié mis primeros pasos aproximadamente hace 3 años, y en el 2022 pude terminar la carrera de Tecnólogo en desarrollo de software en la Institución Universitaria Pascual Bravo, así como también el programa Misión TIC 2022.
+Respecto a contactos con la programación y el mundo de las tics, inicié mis primeros pasos aproximadamente hace 3 años, y en el 2022 pude terminar la carrera de Tecnólogo en desarrollo de software en la Institución Universitaria Pascual Bravo en la ciudad de Medellín, así como también finalizar el programa Misión TIC 2022 ofrecido por el Ministerio de Tecnologías de la Información y de las Comunicaciones que tuvo como objetivo formar a 100.000 jóvenes y adultos colombianos en programación. Allí pude adquirir varios conocimientos en lenguajes como  Python, C# y Java, creando  proyectos básicos, usando programación orientada a objetos, proyectos con conexión a bases de datos utilizando la parte gráfica, con el modelo vista controlador (MVC), entro otros. 
 
-Actualmente hago parte de una alianza entre Globant y Cesde llamada formación dual, donde continuo aprendiendo sobre este maravilloso mundo.
+Actualmente  hago parte de una alianza entre Globant y Cesde llamada formación dual, donde continuo aprendiendo sobre este maravilloso mundo.
 
 ### Tecnologías
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
