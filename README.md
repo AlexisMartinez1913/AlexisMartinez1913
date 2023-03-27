@@ -1,7 +1,7 @@
 ## Hola soy Alexis Martinez :octocat:
 ### Programmer
 
-![avatar](https://firebasestorage.googleapis.com/v0/b/proyecto1cesdeja.appspot.com/o/cartoon-real1%20(1).jpg?alt=media&token=6b0f7890-e528-41f3-bf01-5799eb633aef)
+![avatar](https://firebasestorage.googleapis.com/v0/b/proyecto1cesdeja.appspot.com/o/cartoon-real1%20(2).jpg?alt=media&token=82b7bac2-05eb-4460-a7a7-ee7ca8b53bc6)
 
 Soy una persona apasionada por la tecnología, los videojuegos, la programación y el aprendizaje continuo.
 
