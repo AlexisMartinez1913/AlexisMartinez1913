@@ -3,11 +3,11 @@
 
 ![avatar](https://firebasestorage.googleapis.com/v0/b/proyecto1cesdeja.appspot.com/o/cartoon-real1%20(2).jpg?alt=media&token=82b7bac2-05eb-4460-a7a7-ee7ca8b53bc6)
 
-Soy una persona apasionada por la tecnología, los videojuegos, la programación y el aprendizaje continuo.
+I am a person who is passionate about technology, videogames, programming and continuous learning.
 
-Respecto a contactos con la programación y el mundo de las tics, inicié mis primeros pasos aproximadamente hace 3 años, y en el 2022 pude terminar la carrera de Tecnólogo en desarrollo de software en la Institución Universitaria Pascual Bravo en la ciudad de Medellín, así como también finalizar el programa Misión TIC 2022 ofrecido por el Ministerio de Tecnologías de la Información y de las Comunicaciones que tuvo como objetivo formar a 100.000 jóvenes y adultos colombianos en programación. Allí pude adquirir varios conocimientos en lenguajes como  Python, C# y Java, creando  proyectos básicos, usando programación orientada a objetos, proyectos con conexión a bases de datos utilizando la parte gráfica, con el modelo vista controlador (MVC), entro otros. 
+Regarding contacts with programming and the world of ICT, I took my first steps approximately 3 years ago, and in 2022 I was able to finish my degree as a Software Development Technologist at the Pascual Bravo University Institution in the city of Medellín, as well as also finalize the TIC 2022 Mission program offered by the Ministry of Information and Communication Technologies, which aimed to train 100,000 Colombian youth and adults in programming. There I was able to acquire various knowledge in languages such as Python, C# and Java, creating basic projects, using object-oriented programming, projects with connection to databases using the graphical part, with the model view controller (MVC), among others.
 
-Actualmente  hago parte de una alianza entre Globant y Cesde llamada formación dual, donde continuo aprendiendo sobre este maravilloso mundo.
+I am currently part of an alliance between Globant and Cesde called dual training, where I continue to learn about this wonderful world.
 
 ### Tecnologías
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
