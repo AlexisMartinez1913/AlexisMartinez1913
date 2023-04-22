@@ -1,4 +1,4 @@
-## Hola soy Alexis Martinez :octocat:
+## Hello I'm Alexis Martinez :octocat:
 ### Programmer
 
 
@@ -11,7 +11,7 @@ Regarding contacts with programming and the world of ICT, I took my first steps 
 
 I am currently part of an alliance between Globant and Cesde called dual training, where I continue to learn about this wonderful world.
 
-### Tecnologías
+### Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
