@@ -2,7 +2,7 @@
 ## I'm Programmer.
 ### Collage Trainee in Globant.
 #### I am a person who is passionate about technology, videogames, programming and continuous learning.
-#### I Love Pyhton and C#.
+#### I Love Python and C#.
 ##### Contact: jhonyalexis100@gmail.com
 
 
