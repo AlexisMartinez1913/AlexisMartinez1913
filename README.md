@@ -1,6 +1,6 @@
 # Hello everyone I'm Alexis Martinez :octocat:
 ## I'm Programmer.
-### Collage Trainee in Globant.
+### Collage Trainee at Globant.
 #### I am a person who is passionate about technology, videogames, programming and continuous learning.
 #### I Love Python and C#.
 ##### Contact: jhonyalexis100@gmail.com
