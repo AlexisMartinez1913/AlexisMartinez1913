@@ -1,6 +1,14 @@
 # 💫 About Me:
-<br><br>I have a great passion for both Python and C#. <br>I took my first steps in programming and the world of ICT approximately 3 years ago. In 2022, I successfully completed my degree as a Software Development Technologist at the Pascual Bravo University Institution in the city of Medellín. <br><br>
-Additionally, I participated in the TIC 2022 Mission program, which was offered by the Ministry of Information and Communication Technologies. The program aimed to train 100,000 Colombian youth and adults in programming.<br><br> At the moment I'm Collage Trainee at Globant.
+<br><br>With a passion for backend development, I bring expertise in multiple languages and frameworks. My experience includes:
+
+- Java: Leveraging Spring (Springboot, RESTful API, Security, Data JPA, Thymeleaf) to build robust applications.
+
+- C#: Proficient in OOP, REST API development, and utilizing Entity Framework for efficient data management. Experienced in .NET Identity for authentication and authorization.
+
+- Python: Skilled in OOP fundamentals, lists, tuples, file handling, tkinter for GUI development, functions, database interactions, and basic proficiency in FastAPI, pandas, and numpy.
+
+I graduated with a degree in Software Development and excel in delivering scalable solutions that align with business objectives.
+My soft skills such as problem-solving, teamwork, and effective communication allow me to collaborate effectively in dynamic environments.
 
 
 ## 🌐 Socials:
