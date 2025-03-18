@@ -1,14 +1,5 @@
 # 💫 About Me:
-<br><br>With a passion for backend development, I bring expertise in multiple languages and frameworks. My experience includes:
-
-- Java: Leveraging Spring (Springboot, RESTful API, Security, Data JPA, Thymeleaf) to build robust applications.
-
-- C#: Proficient in OOP, REST API development, and utilizing Entity Framework for efficient data management. Experienced in .NET Identity for authentication and authorization.
-
-- Python: Skilled in OOP fundamentals, lists, tuples, file handling, tkinter for GUI development, functions, database interactions, and basic proficiency in FastAPI, pandas, and numpy.
-
-I graduated with a degree in Software Development and excel in delivering scalable solutions that align with business objectives.
-My soft skills such as problem-solving, teamwork, and effective communication allow me to collaborate effectively in dynamic environments.
+<br><br>Responsible and organized backend developer with experience in Java (Spring Boot, JPA, Security, REST API), Python (FastAPI), and C# (Web API, Entity Framework). Experience in web application design and development, database management, and API consumption. Committed to improving skills and learning new technologies.
 
 
 ## 🌐 Socials:
